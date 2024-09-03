@@ -1,6 +1,6 @@
 # Hospital-and-Health-Care-Management-System-Project-in-Java
 
-Hi, I am Sehresh Mehboob and Welcome to my Project "Hospital-and-Health-Care-Management-System " :-)
+Hi, I am Harsh Kumar Vishwakarma and Welcome to my Project "Hospital-and-Health-Care-Management-System " :-)
 
 Introduction: 
 
